@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.pyo
+/output/
+kit.tar.gz
+bundle*.tar.gz
+*-kit/
+.DS_Store
